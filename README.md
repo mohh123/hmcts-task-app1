@@ -1,6 +1,6 @@
-# HMCTS DTS Developer Challenge – Junior Software Developer
+# HMCTS DTS Developer Technical Test
 
-This project is my submission for the HMCTS DTS Developer Challenge (Junior).  
+This project is my submission for the HMCTS DTS Developer Technical Test.  
 It provides a simple full-stack application for creating and storing tasks.
 
 ## Features
